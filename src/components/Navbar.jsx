@@ -18,7 +18,7 @@ class Navbar extends Component{
                         <li><a className="active" href="index.html">Home</a></li>
                         <li><a href="index.html">Courses</a></li>
                         <li><a href="index.html">Mentoring</a></li>
-                        <li><a href="index.html">hello</a></li>
+                        <li><a href="index.html">Leaderboard</a></li>
                         <li><a href="index.html"><i class="fas fa-user"></i></a></li>
                     </ul>
                 </div>
